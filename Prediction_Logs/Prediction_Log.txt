@@ -1,0 +1,250 @@
+2022-03-22/18:21:41		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/18:21:41		Entered the change format method of the Preprocessor class
+2022-03-22/18:21:41		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/18:21:41		Entered the process_date method of the Preprocessor class
+2022-03-22/18:21:41		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/18:21:41		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/18:21:41		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/18:21:41		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/18:21:41		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/18:21:41		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/18:21:41		Preprocess Arrival Successful.Exited the Preprocess Arrival method of the Preprocessor class
+2022-03-22/18:21:41		Entered the encode_categorical for prediction variables for Prediciton method of the Preprocessor class
+2022-03-22/18:21:41		Encode Categorical Variables for Prediction Successful.Exited the Encode Categorical Variables method of the Preprocessor class
+2022-03-22/18:21:41		Entered the load_model method of the File_Operation class
+2022-03-22/18:21:41		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-22/18:21:41		Entered the find_correct_model_file method of the File_Operation class
+2022-03-22/18:21:41		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-22/18:21:41		Entered the load_model method of the File_Operation class
+2022-03-22/18:21:41		Model File XG0 loaded. Exited the load_model method of the Model_Finder class
+2022-03-22/18:21:41		End of Prediction
+2022-03-22/18:23:52		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/18:23:52		Entered the change format method of the Preprocessor class
+2022-03-22/18:23:52		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/18:23:52		Entered the process_date method of the Preprocessor class
+2022-03-22/18:23:52		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/18:23:52		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/18:23:52		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/18:23:52		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/18:23:52		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/18:23:52		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/18:23:52		Preprocess Arrival Successful.Exited the Preprocess Arrival method of the Preprocessor class
+2022-03-22/18:23:52		Entered the encode_categorical for prediction variables for Prediciton method of the Preprocessor class
+2022-03-22/18:23:52		Encode Categorical Variables for Prediction Successful.Exited the Encode Categorical Variables method of the Preprocessor class
+2022-03-22/18:23:52		Entered the load_model method of the File_Operation class
+2022-03-22/18:23:52		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-22/18:23:52		Entered the find_correct_model_file method of the File_Operation class
+2022-03-22/18:23:52		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-22/18:23:52		Entered the load_model method of the File_Operation class
+2022-03-22/18:23:52		Model File XG0 loaded. Exited the load_model method of the Model_Finder class
+2022-03-22/18:23:52		End of Prediction
+2022-03-22/19:47:44		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/19:47:44		Entered the change format method of the Preprocessor class
+2022-03-22/19:47:44		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/19:47:44		Entered the process_date method of the Preprocessor class
+2022-03-22/19:47:44		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/19:47:44		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/19:47:44		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/19:47:44		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/19:47:44		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/19:47:44		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/19:47:44		Exception occured in preprocess Arrival method of the Preprocessor class. Exception message:  Columns must be same length as key
+2022-03-22/19:47:44		Preprocess Arrival Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-03-22/19:47:44		Error occured while running the prediction!! Error:: 
+2022-03-22/19:49:50		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/19:49:50		Entered the change format method of the Preprocessor class
+2022-03-22/19:49:50		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/19:49:50		Entered the process_date method of the Preprocessor class
+2022-03-22/19:49:50		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/19:49:50		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/19:49:50		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/19:49:50		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/19:49:50		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/19:49:50		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/19:49:50		Exception occured in preprocess Arrival method of the Preprocessor class. Exception message:  Columns must be same length as key
+2022-03-22/19:49:50		Preprocess Arrival Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-03-22/19:49:50		Error occured while running the prediction!! Error:: 
+2022-03-22/19:50:23		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/19:50:23		Entered the change format method of the Preprocessor class
+2022-03-22/19:50:23		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/19:50:23		Entered the process_date method of the Preprocessor class
+2022-03-22/19:50:23		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/19:50:23		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/19:50:23		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/19:50:23		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/19:50:23		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/19:50:23		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/19:50:23		Preprocess Arrival Successful.Exited the Preprocess Arrival method of the Preprocessor class
+2022-03-22/19:50:23		Entered the encode_categorical for prediction variables for Prediciton method of the Preprocessor class
+2022-03-22/19:50:23		Encode Categorical Variables for Prediction Successful.Exited the Encode Categorical Variables method of the Preprocessor class
+2022-03-22/19:50:23		Entered the load_model method of the File_Operation class
+2022-03-22/19:50:23		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-22/19:50:23		Entered the find_correct_model_file method of the File_Operation class
+2022-03-22/19:50:23		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-22/19:50:23		Entered the load_model method of the File_Operation class
+2022-03-22/19:50:23		Model File XG2 loaded. Exited the load_model method of the Model_Finder class
+2022-03-22/19:50:23		End of Prediction
+2022-03-22/19:50:34		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/19:50:34		Entered the change format method of the Preprocessor class
+2022-03-22/19:50:34		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/19:50:34		Entered the process_date method of the Preprocessor class
+2022-03-22/19:50:34		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/19:50:34		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/19:50:34		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/19:50:34		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/19:50:34		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/19:50:34		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/19:50:34		Exception occured in preprocess Arrival method of the Preprocessor class. Exception message:  Columns must be same length as key
+2022-03-22/19:50:34		Preprocess Arrival Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-03-22/19:50:34		Error occured while running the prediction!! Error:: 
+2022-03-22/19:54:06		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/19:54:06		Entered the change format method of the Preprocessor class
+2022-03-22/19:54:06		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/19:54:06		Entered the process_date method of the Preprocessor class
+2022-03-22/19:54:06		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/19:54:06		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/19:54:06		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/19:54:06		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/19:54:06		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/19:54:06		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/19:54:06		Exception occured in preprocess Arrival method of the Preprocessor class. Exception message:  Columns must be same length as key
+2022-03-22/19:54:06		Preprocess Arrival Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-03-22/19:54:06		Error occured while running the prediction!! Error:: 
+2022-03-22/19:54:13		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/19:54:13		Entered the change format method of the Preprocessor class
+2022-03-22/19:54:13		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/19:54:13		Entered the process_date method of the Preprocessor class
+2022-03-22/19:54:13		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/19:54:13		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/19:54:13		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/19:54:13		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/19:54:13		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/19:54:13		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/19:54:13		Preprocess Arrival Successful.Exited the Preprocess Arrival method of the Preprocessor class
+2022-03-22/19:54:13		Entered the encode_categorical for prediction variables for Prediciton method of the Preprocessor class
+2022-03-22/19:54:13		Encode Categorical Variables for Prediction Successful.Exited the Encode Categorical Variables method of the Preprocessor class
+2022-03-22/19:54:13		Entered the load_model method of the File_Operation class
+2022-03-22/19:54:13		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-22/19:54:13		Entered the find_correct_model_file method of the File_Operation class
+2022-03-22/19:54:13		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-22/19:54:13		Entered the load_model method of the File_Operation class
+2022-03-22/19:54:13		Model File XG2 loaded. Exited the load_model method of the Model_Finder class
+2022-03-22/19:54:13		End of Prediction
+2022-03-22/19:54:16		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/19:54:16		Entered the change format method of the Preprocessor class
+2022-03-22/19:54:16		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/19:54:16		Entered the process_date method of the Preprocessor class
+2022-03-22/19:54:16		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/19:54:16		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/19:54:16		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/19:54:16		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/19:54:16		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/19:54:16		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/19:54:16		Exception occured in preprocess Arrival method of the Preprocessor class. Exception message:  Columns must be same length as key
+2022-03-22/19:54:16		Preprocess Arrival Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-03-22/19:54:16		Error occured while running the prediction!! Error:: 
+2022-03-22/19:56:27		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/19:56:27		Entered the change format method of the Preprocessor class
+2022-03-22/19:56:27		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/19:56:27		Entered the process_date method of the Preprocessor class
+2022-03-22/19:56:27		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/19:56:27		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/19:56:27		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/19:56:27		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/19:56:27		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/19:56:27		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/19:56:27		Exception occured in preprocess Arrival method of the Preprocessor class. Exception message:  Columns must be same length as key
+2022-03-22/19:56:27		Preprocess Arrival Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-03-22/19:56:27		Error occured while running the prediction!! Error:: 
+2022-03-22/20:04:30		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/20:04:30		Entered the change format method of the Preprocessor class
+2022-03-22/20:04:30		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/20:04:30		Entered the process_date method of the Preprocessor class
+2022-03-22/20:04:30		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/20:04:30		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/20:04:30		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/20:04:30		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/20:04:30		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/20:04:30		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/20:04:30		Exception occured in preprocess Arrival method of the Preprocessor class. Exception message:  Columns must be same length as key
+2022-03-22/20:04:30		Preprocess Arrival Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-03-22/20:04:30		Error occured while running the prediction!! Error:: 
+2022-03-22/20:04:42		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/20:04:42		Entered the change format method of the Preprocessor class
+2022-03-22/20:04:42		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/20:04:42		Entered the process_date method of the Preprocessor class
+2022-03-22/20:04:42		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/20:04:42		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/20:04:42		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/20:04:42		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/20:04:42		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/20:04:42		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/20:04:42		Exception occured in preprocess Arrival method of the Preprocessor class. Exception message:  Columns must be same length as key
+2022-03-22/20:04:42		Preprocess Arrival Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-03-22/20:04:42		Error occured while running the prediction!! Error:: 
+2022-03-22/20:05:37		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/20:05:37		Entered the change format method of the Preprocessor class
+2022-03-22/20:05:37		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/20:05:37		Entered the process_date method of the Preprocessor class
+2022-03-22/20:05:37		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/20:05:37		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/20:05:37		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/20:05:37		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/20:05:37		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/20:05:37		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/20:05:37		Exception occured in preprocess Arrival method of the Preprocessor class. Exception message:  Columns must be same length as key
+2022-03-22/20:05:37		Preprocess Arrival Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-03-22/20:05:37		Error occured while running the prediction!! Error:: 
+2022-03-22/20:06:47		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/20:06:47		Entered the change format method of the Preprocessor class
+2022-03-22/20:06:47		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/20:06:47		Entered the process_date method of the Preprocessor class
+2022-03-22/20:06:47		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/20:06:47		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/20:06:47		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/20:06:47		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/20:06:47		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/20:06:47		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/20:06:47		Exception occured in preprocess Arrival method of the Preprocessor class. Exception message:  Columns must be same length as key
+2022-03-22/20:06:47		Preprocess Arrival Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-03-22/20:06:47		Error occured while running the prediction!! Error:: 
+2022-03-22/20:08:52		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/20:08:52		Entered the change format method of the Preprocessor class
+2022-03-22/20:08:52		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/20:08:52		Entered the process_date method of the Preprocessor class
+2022-03-22/20:08:52		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/20:08:52		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/20:08:52		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/20:08:52		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/20:08:52		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/20:08:52		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/20:08:52		Preprocess Arrival Successful.Exited the Preprocess Arrival method of the Preprocessor class
+2022-03-22/20:08:52		Entered the encode_categorical for prediction variables for Prediciton method of the Preprocessor class
+2022-03-22/20:08:52		Encode Categorical Variables for Prediction Successful.Exited the Encode Categorical Variables method of the Preprocessor class
+2022-03-22/20:08:52		Entered the load_model method of the File_Operation class
+2022-03-22/20:08:52		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-22/20:08:52		Entered the find_correct_model_file method of the File_Operation class
+2022-03-22/20:08:52		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-22/20:08:52		Entered the load_model method of the File_Operation class
+2022-03-22/20:08:52		Model File XG2 loaded. Exited the load_model method of the Model_Finder class
+2022-03-22/20:08:53		End of Prediction
+2022-03-22/20:09:10		Entered the drop_missing_values method of the Preprocessor class
+2022-03-22/20:09:10		Entered the change format method of the Preprocessor class
+2022-03-22/20:09:10		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-22/20:09:10		Entered the process_date method of the Preprocessor class
+2022-03-22/20:09:10		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-22/20:09:10		Entered the preprocess duration method of the Preprocessor class
+2022-03-22/20:09:10		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-22/20:09:10		Entered the preprocess departure method of the Preprocessor class
+2022-03-22/20:09:10		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-22/20:09:10		Entered the preprocess arrival method of the Preprocessor class
+2022-03-22/20:09:10		Preprocess Arrival Successful.Exited the Preprocess Arrival method of the Preprocessor class
+2022-03-22/20:09:10		Entered the encode_categorical for prediction variables for Prediciton method of the Preprocessor class
+2022-03-22/20:09:10		Encode Categorical Variables for Prediction Successful.Exited the Encode Categorical Variables method of the Preprocessor class
+2022-03-22/20:09:10		Entered the load_model method of the File_Operation class
+2022-03-22/20:09:10		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-22/20:09:10		Entered the find_correct_model_file method of the File_Operation class
+2022-03-22/20:09:10		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-22/20:09:10		Entered the load_model method of the File_Operation class
+2022-03-22/20:09:10		Model File XG2 loaded. Exited the load_model method of the Model_Finder class
+2022-03-22/20:09:10		End of Prediction

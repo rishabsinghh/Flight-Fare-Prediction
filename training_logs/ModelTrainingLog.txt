@@ -1,0 +1,53 @@
+2022-03-20/15:40:04		Start of Training
+2022-03-20/15:40:08		Entered the remove_columns method of the Preprocessor class
+2022-03-20/15:40:08		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-20/15:40:08		Entered the drop_missing_values method of the Preprocessor class
+2022-03-20/15:40:08		Entered the change format method of the Preprocessor class
+2022-03-20/15:40:08		Format Change Successful.Exited the format change method of the Preprocessor class
+2022-03-20/15:40:08		Entered the process_date method of the Preprocessor class
+2022-03-20/15:40:08		process_date Successful.Exited the process_date method of the Preprocessor class
+2022-03-20/15:40:08		Entered the preprocess duration method of the Preprocessor class
+2022-03-20/15:40:08		Preprocess Duration Successful.Exited the Preprocess Duration method of the Preprocessor class
+2022-03-20/15:40:08		Entered the preprocess departure method of the Preprocessor class
+2022-03-20/15:40:08		Preprocess Departure Successful.Exited the Preprocess Departure method of the Preprocessor class
+2022-03-20/15:40:08		Entered the preprocess arrival method of the Preprocessor class
+2022-03-20/15:40:08		Preprocess Arrival Successful.Exited the Preprocess Arrival method of the Preprocessor class
+2022-03-20/15:40:08		Entered the process_total_stops method of the Preprocessor class
+2022-03-20/15:40:08		process_totalstops Successful.Exited the Process_totalsteps method of the Preprocessor class
+2022-03-20/15:40:08		Entered the encode_categorical variables method of the Preprocessor class
+2022-03-20/15:40:08		Encode Categorical Variables Successful.Exited the Encode Categorical Variables method of the Preprocessor class
+2022-03-20/15:40:08		Entered the separate_label_feature method of the Preprocessor class
+2022-03-20/15:40:08		Entered the elbow_plot method of the KMeansClustering class
+2022-03-20/15:40:10		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2022-03-20/15:40:10		Entered the create_clusters method of the KMeansClustering class
+2022-03-20/15:40:10		Entered the save_model method of the File_Operation class
+2022-03-20/15:40:10		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2022-03-20/15:40:10		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2022-03-20/15:40:10		Entered the get_best_model method of the Model_Finder class
+2022-03-20/15:40:10		Entered the get_best_params_for_XG Regressor method of the Model_Finder class
+2022-03-20/17:09:27		XGR best params: {'colsample_bytree': 0.7, 'gamma': 0.0, 'learning_rate': 0.05, 'max_depth': 6, 'min_child_weight': 1}. Exited the XGR method of the Model_Finder class
+2022-03-20/17:09:27		r2_score for xg:0.8165577672910742
+2022-03-20/17:09:27		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-03-20/18:31:07		Random Forest best params: {'max_depth': 3, 'max_features': 'auto', 'min_samples_leaf': 10, 'min_samples_split': 10, 'n_estimators': 800}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2022-03-20/18:31:07		r2_score for RF:0.7212109546720822
+2022-03-20/18:31:07		Entered the save_model method of the File_Operation class
+2022-03-20/18:31:07		Model File XG2 saved. Exited the save_model method of the Model_Finder class
+2022-03-20/18:31:07		Entered the get_best_model method of the Model_Finder class
+2022-03-20/18:31:07		Entered the get_best_params_for_XG Regressor method of the Model_Finder class
+2022-03-20/19:42:12		XGR best params: {'colsample_bytree': 0.7, 'gamma': 0.0, 'learning_rate': 0.05, 'max_depth': 8, 'min_child_weight': 1}. Exited the XGR method of the Model_Finder class
+2022-03-20/19:42:12		r2_score for xg:0.7638000784156356
+2022-03-20/19:42:12		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-03-20/21:00:19		Random Forest best params: {'max_depth': 3, 'max_features': 'auto', 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 800}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2022-03-20/21:00:19		r2_score for RF:0.5492583741005453
+2022-03-20/21:00:19		Entered the save_model method of the File_Operation class
+2022-03-20/21:00:19		Model File XG1 saved. Exited the save_model method of the Model_Finder class
+2022-03-20/21:00:19		Entered the get_best_model method of the Model_Finder class
+2022-03-20/21:00:19		Entered the get_best_params_for_XG Regressor method of the Model_Finder class
+2022-03-20/22:26:18		XGR best params: {'colsample_bytree': 0.4, 'gamma': 0.0, 'learning_rate': 0.15, 'max_depth': 5, 'min_child_weight': 1}. Exited the XGR method of the Model_Finder class
+2022-03-20/22:26:18		r2_score for xg:0.8403531714765937
+2022-03-20/22:26:18		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-03-20/23:49:14		Random Forest best params: {'max_depth': 3, 'max_features': 'auto', 'min_samples_leaf': 10, 'min_samples_split': 15, 'n_estimators': 200}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2022-03-20/23:49:14		r2_score for RF:0.6888881947986648
+2022-03-20/23:49:14		Entered the save_model method of the File_Operation class
+2022-03-20/23:49:14		Model File XG0 saved. Exited the save_model method of the Model_Finder class
+2022-03-20/23:49:14		Successful End of Training
